@@ -74,5 +74,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- **Autor**: Nicolas
+- **Autor**: Luiz Eduardo
 - **GitHub**: [fxckillua](https://github.com/fxckillua)
